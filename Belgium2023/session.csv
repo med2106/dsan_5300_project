@@ -1,0 +1,6 @@
+,location,country_key,country_code,country_name,circuit_key,circuit_short_name,session_type,session_name,date_start,date_end,gmt_offset,session_key,meeting_key,year
+0,Spa-Francorchamps,16,BEL,Belgium,7,Spa-Francorchamps,Practice,Practice 1,2023-07-28T11:30:00+00:00,2023-07-28T12:30:00+00:00,02:00:00,9134,1216,2023
+1,Spa-Francorchamps,16,BEL,Belgium,7,Spa-Francorchamps,Qualifying,Qualifying,2023-07-28T15:00:00+00:00,2023-07-28T16:00:00+00:00,02:00:00,9135,1216,2023
+2,Spa-Francorchamps,16,BEL,Belgium,7,Spa-Francorchamps,Qualifying,Sprint Shootout,2023-07-29T10:00:00+00:00,2023-07-29T10:44:00+00:00,02:00:00,9286,1216,2023
+3,Spa-Francorchamps,16,BEL,Belgium,7,Spa-Francorchamps,Race,Sprint,2023-07-29T15:05:00+00:00,2023-07-29T15:35:00+00:00,02:00:00,9140,1216,2023
+4,Spa-Francorchamps,16,BEL,Belgium,7,Spa-Francorchamps,Race,Race,2023-07-30T13:00:00+00:00,2023-07-30T15:00:00+00:00,02:00:00,9141,1216,2023
