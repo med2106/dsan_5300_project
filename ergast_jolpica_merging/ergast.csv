@@ -1,0 +1,201 @@
+,season,race,round,driver_number,driver_name,finishing_position
+0,2023,Bahrain Grand Prix,1,1,Max Verstappen,1
+1,2023,Bahrain Grand Prix,1,11,Sergio Pérez,2
+2,2023,Bahrain Grand Prix,1,14,Fernando Alonso,3
+3,2023,Bahrain Grand Prix,1,55,Carlos Sainz,4
+4,2023,Bahrain Grand Prix,1,44,Lewis Hamilton,5
+5,2023,Bahrain Grand Prix,1,18,Lance Stroll,6
+6,2023,Bahrain Grand Prix,1,63,George Russell,7
+7,2023,Bahrain Grand Prix,1,77,Valtteri Bottas,8
+8,2023,Bahrain Grand Prix,1,10,Pierre Gasly,9
+9,2023,Bahrain Grand Prix,1,23,Alexander Albon,10
+10,2023,Bahrain Grand Prix,1,22,Yuki Tsunoda,11
+11,2023,Bahrain Grand Prix,1,2,Logan Sargeant,12
+12,2023,Bahrain Grand Prix,1,20,Kevin Magnussen,13
+13,2023,Bahrain Grand Prix,1,21,Nyck de Vries,14
+14,2023,Bahrain Grand Prix,1,27,Nico Hülkenberg,15
+15,2023,Bahrain Grand Prix,1,24,Guanyu Zhou,16
+16,2023,Bahrain Grand Prix,1,4,Lando Norris,17
+17,2023,Bahrain Grand Prix,1,31,Esteban Ocon,18
+18,2023,Bahrain Grand Prix,1,16,Charles Leclerc,19
+19,2023,Bahrain Grand Prix,1,81,Oscar Piastri,20
+20,2023,Saudi Arabian Grand Prix,2,11,Sergio Pérez,1
+21,2023,Saudi Arabian Grand Prix,2,1,Max Verstappen,2
+22,2023,Saudi Arabian Grand Prix,2,14,Fernando Alonso,3
+23,2023,Saudi Arabian Grand Prix,2,63,George Russell,4
+24,2023,Saudi Arabian Grand Prix,2,44,Lewis Hamilton,5
+25,2023,Saudi Arabian Grand Prix,2,55,Carlos Sainz,6
+26,2023,Saudi Arabian Grand Prix,2,16,Charles Leclerc,7
+27,2023,Saudi Arabian Grand Prix,2,31,Esteban Ocon,8
+28,2023,Saudi Arabian Grand Prix,2,10,Pierre Gasly,9
+29,2023,Saudi Arabian Grand Prix,2,20,Kevin Magnussen,10
+30,2023,Saudi Arabian Grand Prix,2,22,Yuki Tsunoda,11
+31,2023,Saudi Arabian Grand Prix,2,27,Nico Hülkenberg,12
+32,2023,Saudi Arabian Grand Prix,2,24,Guanyu Zhou,13
+33,2023,Saudi Arabian Grand Prix,2,21,Nyck de Vries,14
+34,2023,Saudi Arabian Grand Prix,2,81,Oscar Piastri,15
+35,2023,Saudi Arabian Grand Prix,2,2,Logan Sargeant,16
+36,2023,Saudi Arabian Grand Prix,2,4,Lando Norris,17
+37,2023,Saudi Arabian Grand Prix,2,77,Valtteri Bottas,18
+38,2023,Saudi Arabian Grand Prix,2,23,Alexander Albon,19
+39,2023,Saudi Arabian Grand Prix,2,18,Lance Stroll,20
+40,2023,Australian Grand Prix,3,1,Max Verstappen,1
+41,2023,Australian Grand Prix,3,44,Lewis Hamilton,2
+42,2023,Australian Grand Prix,3,14,Fernando Alonso,3
+43,2023,Australian Grand Prix,3,18,Lance Stroll,4
+44,2023,Australian Grand Prix,3,11,Sergio Pérez,5
+45,2023,Australian Grand Prix,3,4,Lando Norris,6
+46,2023,Australian Grand Prix,3,27,Nico Hülkenberg,7
+47,2023,Australian Grand Prix,3,81,Oscar Piastri,8
+48,2023,Australian Grand Prix,3,24,Guanyu Zhou,9
+49,2023,Australian Grand Prix,3,22,Yuki Tsunoda,10
+50,2023,Australian Grand Prix,3,77,Valtteri Bottas,11
+51,2023,Australian Grand Prix,3,55,Carlos Sainz,12
+52,2023,Australian Grand Prix,3,10,Pierre Gasly,13
+53,2023,Australian Grand Prix,3,31,Esteban Ocon,14
+54,2023,Australian Grand Prix,3,21,Nyck de Vries,15
+55,2023,Australian Grand Prix,3,2,Logan Sargeant,16
+56,2023,Australian Grand Prix,3,20,Kevin Magnussen,17
+57,2023,Australian Grand Prix,3,63,George Russell,18
+58,2023,Australian Grand Prix,3,23,Alexander Albon,19
+59,2023,Australian Grand Prix,3,16,Charles Leclerc,20
+60,2023,Azerbaijan Grand Prix,4,11,Sergio Pérez,1
+61,2023,Azerbaijan Grand Prix,4,1,Max Verstappen,2
+62,2023,Azerbaijan Grand Prix,4,16,Charles Leclerc,3
+63,2023,Azerbaijan Grand Prix,4,14,Fernando Alonso,4
+64,2023,Azerbaijan Grand Prix,4,55,Carlos Sainz,5
+65,2023,Azerbaijan Grand Prix,4,44,Lewis Hamilton,6
+66,2023,Azerbaijan Grand Prix,4,18,Lance Stroll,7
+67,2023,Azerbaijan Grand Prix,4,63,George Russell,8
+68,2023,Azerbaijan Grand Prix,4,4,Lando Norris,9
+69,2023,Azerbaijan Grand Prix,4,22,Yuki Tsunoda,10
+70,2023,Azerbaijan Grand Prix,4,81,Oscar Piastri,11
+71,2023,Azerbaijan Grand Prix,4,23,Alexander Albon,12
+72,2023,Azerbaijan Grand Prix,4,20,Kevin Magnussen,13
+73,2023,Azerbaijan Grand Prix,4,10,Pierre Gasly,14
+74,2023,Azerbaijan Grand Prix,4,31,Esteban Ocon,15
+75,2023,Azerbaijan Grand Prix,4,2,Logan Sargeant,16
+76,2023,Azerbaijan Grand Prix,4,27,Nico Hülkenberg,17
+77,2023,Azerbaijan Grand Prix,4,77,Valtteri Bottas,18
+78,2023,Azerbaijan Grand Prix,4,24,Guanyu Zhou,19
+79,2023,Azerbaijan Grand Prix,4,21,Nyck de Vries,20
+80,2023,Miami Grand Prix,5,1,Max Verstappen,1
+81,2023,Miami Grand Prix,5,11,Sergio Pérez,2
+82,2023,Miami Grand Prix,5,14,Fernando Alonso,3
+83,2023,Miami Grand Prix,5,63,George Russell,4
+84,2023,Miami Grand Prix,5,55,Carlos Sainz,5
+85,2023,Miami Grand Prix,5,44,Lewis Hamilton,6
+86,2023,Miami Grand Prix,5,16,Charles Leclerc,7
+87,2023,Miami Grand Prix,5,10,Pierre Gasly,8
+88,2023,Miami Grand Prix,5,31,Esteban Ocon,9
+89,2023,Miami Grand Prix,5,20,Kevin Magnussen,10
+90,2023,Miami Grand Prix,5,22,Yuki Tsunoda,11
+91,2023,Miami Grand Prix,5,18,Lance Stroll,12
+92,2023,Miami Grand Prix,5,77,Valtteri Bottas,13
+93,2023,Miami Grand Prix,5,23,Alexander Albon,14
+94,2023,Miami Grand Prix,5,27,Nico Hülkenberg,15
+95,2023,Miami Grand Prix,5,24,Guanyu Zhou,16
+96,2023,Miami Grand Prix,5,4,Lando Norris,17
+97,2023,Miami Grand Prix,5,21,Nyck de Vries,18
+98,2023,Miami Grand Prix,5,81,Oscar Piastri,19
+99,2023,Miami Grand Prix,5,2,Logan Sargeant,20
+100,2024,Bahrain Grand Prix,1,1,Max Verstappen,1
+101,2024,Bahrain Grand Prix,1,11,Sergio Pérez,2
+102,2024,Bahrain Grand Prix,1,55,Carlos Sainz,3
+103,2024,Bahrain Grand Prix,1,16,Charles Leclerc,4
+104,2024,Bahrain Grand Prix,1,63,George Russell,5
+105,2024,Bahrain Grand Prix,1,4,Lando Norris,6
+106,2024,Bahrain Grand Prix,1,44,Lewis Hamilton,7
+107,2024,Bahrain Grand Prix,1,81,Oscar Piastri,8
+108,2024,Bahrain Grand Prix,1,14,Fernando Alonso,9
+109,2024,Bahrain Grand Prix,1,18,Lance Stroll,10
+110,2024,Bahrain Grand Prix,1,24,Guanyu Zhou,11
+111,2024,Bahrain Grand Prix,1,20,Kevin Magnussen,12
+112,2024,Bahrain Grand Prix,1,3,Daniel Ricciardo,13
+113,2024,Bahrain Grand Prix,1,22,Yuki Tsunoda,14
+114,2024,Bahrain Grand Prix,1,23,Alexander Albon,15
+115,2024,Bahrain Grand Prix,1,27,Nico Hülkenberg,16
+116,2024,Bahrain Grand Prix,1,31,Esteban Ocon,17
+117,2024,Bahrain Grand Prix,1,10,Pierre Gasly,18
+118,2024,Bahrain Grand Prix,1,77,Valtteri Bottas,19
+119,2024,Bahrain Grand Prix,1,2,Logan Sargeant,20
+120,2024,Saudi Arabian Grand Prix,2,1,Max Verstappen,1
+121,2024,Saudi Arabian Grand Prix,2,11,Sergio Pérez,2
+122,2024,Saudi Arabian Grand Prix,2,16,Charles Leclerc,3
+123,2024,Saudi Arabian Grand Prix,2,81,Oscar Piastri,4
+124,2024,Saudi Arabian Grand Prix,2,14,Fernando Alonso,5
+125,2024,Saudi Arabian Grand Prix,2,63,George Russell,6
+126,2024,Saudi Arabian Grand Prix,2,38,Oliver Bearman,7
+127,2024,Saudi Arabian Grand Prix,2,4,Lando Norris,8
+128,2024,Saudi Arabian Grand Prix,2,44,Lewis Hamilton,9
+129,2024,Saudi Arabian Grand Prix,2,27,Nico Hülkenberg,10
+130,2024,Saudi Arabian Grand Prix,2,23,Alexander Albon,11
+131,2024,Saudi Arabian Grand Prix,2,20,Kevin Magnussen,12
+132,2024,Saudi Arabian Grand Prix,2,31,Esteban Ocon,13
+133,2024,Saudi Arabian Grand Prix,2,2,Logan Sargeant,14
+134,2024,Saudi Arabian Grand Prix,2,22,Yuki Tsunoda,15
+135,2024,Saudi Arabian Grand Prix,2,3,Daniel Ricciardo,16
+136,2024,Saudi Arabian Grand Prix,2,77,Valtteri Bottas,17
+137,2024,Saudi Arabian Grand Prix,2,24,Guanyu Zhou,18
+138,2024,Saudi Arabian Grand Prix,2,18,Lance Stroll,19
+139,2024,Saudi Arabian Grand Prix,2,10,Pierre Gasly,20
+140,2024,Australian Grand Prix,3,55,Carlos Sainz,1
+141,2024,Australian Grand Prix,3,16,Charles Leclerc,2
+142,2024,Australian Grand Prix,3,4,Lando Norris,3
+143,2024,Australian Grand Prix,3,81,Oscar Piastri,4
+144,2024,Australian Grand Prix,3,11,Sergio Pérez,5
+145,2024,Australian Grand Prix,3,18,Lance Stroll,6
+146,2024,Australian Grand Prix,3,22,Yuki Tsunoda,7
+147,2024,Australian Grand Prix,3,14,Fernando Alonso,8
+148,2024,Australian Grand Prix,3,27,Nico Hülkenberg,9
+149,2024,Australian Grand Prix,3,20,Kevin Magnussen,10
+150,2024,Australian Grand Prix,3,23,Alexander Albon,11
+151,2024,Australian Grand Prix,3,3,Daniel Ricciardo,12
+152,2024,Australian Grand Prix,3,10,Pierre Gasly,13
+153,2024,Australian Grand Prix,3,77,Valtteri Bottas,14
+154,2024,Australian Grand Prix,3,24,Guanyu Zhou,15
+155,2024,Australian Grand Prix,3,31,Esteban Ocon,16
+156,2024,Australian Grand Prix,3,63,George Russell,17
+157,2024,Australian Grand Prix,3,44,Lewis Hamilton,18
+158,2024,Australian Grand Prix,3,1,Max Verstappen,19
+159,2024,Japanese Grand Prix,4,1,Max Verstappen,1
+160,2024,Japanese Grand Prix,4,11,Sergio Pérez,2
+161,2024,Japanese Grand Prix,4,55,Carlos Sainz,3
+162,2024,Japanese Grand Prix,4,16,Charles Leclerc,4
+163,2024,Japanese Grand Prix,4,4,Lando Norris,5
+164,2024,Japanese Grand Prix,4,14,Fernando Alonso,6
+165,2024,Japanese Grand Prix,4,63,George Russell,7
+166,2024,Japanese Grand Prix,4,81,Oscar Piastri,8
+167,2024,Japanese Grand Prix,4,44,Lewis Hamilton,9
+168,2024,Japanese Grand Prix,4,22,Yuki Tsunoda,10
+169,2024,Japanese Grand Prix,4,27,Nico Hülkenberg,11
+170,2024,Japanese Grand Prix,4,18,Lance Stroll,12
+171,2024,Japanese Grand Prix,4,20,Kevin Magnussen,13
+172,2024,Japanese Grand Prix,4,77,Valtteri Bottas,14
+173,2024,Japanese Grand Prix,4,31,Esteban Ocon,15
+174,2024,Japanese Grand Prix,4,10,Pierre Gasly,16
+175,2024,Japanese Grand Prix,4,2,Logan Sargeant,17
+176,2024,Japanese Grand Prix,4,24,Guanyu Zhou,18
+177,2024,Japanese Grand Prix,4,3,Daniel Ricciardo,19
+178,2024,Japanese Grand Prix,4,23,Alexander Albon,20
+179,2024,Chinese Grand Prix,5,1,Max Verstappen,1
+180,2024,Chinese Grand Prix,5,4,Lando Norris,2
+181,2024,Chinese Grand Prix,5,11,Sergio Pérez,3
+182,2024,Chinese Grand Prix,5,16,Charles Leclerc,4
+183,2024,Chinese Grand Prix,5,55,Carlos Sainz,5
+184,2024,Chinese Grand Prix,5,63,George Russell,6
+185,2024,Chinese Grand Prix,5,14,Fernando Alonso,7
+186,2024,Chinese Grand Prix,5,81,Oscar Piastri,8
+187,2024,Chinese Grand Prix,5,44,Lewis Hamilton,9
+188,2024,Chinese Grand Prix,5,27,Nico Hülkenberg,10
+189,2024,Chinese Grand Prix,5,31,Esteban Ocon,11
+190,2024,Chinese Grand Prix,5,23,Alexander Albon,12
+191,2024,Chinese Grand Prix,5,10,Pierre Gasly,13
+192,2024,Chinese Grand Prix,5,24,Guanyu Zhou,14
+193,2024,Chinese Grand Prix,5,18,Lance Stroll,15
+194,2024,Chinese Grand Prix,5,20,Kevin Magnussen,16
+195,2024,Chinese Grand Prix,5,2,Logan Sargeant,17
+196,2024,Chinese Grand Prix,5,3,Daniel Ricciardo,18
+197,2024,Chinese Grand Prix,5,22,Yuki Tsunoda,19
+198,2024,Chinese Grand Prix,5,77,Valtteri Bottas,20
+199,2024,Miami Grand Prix,6,4,Lando Norris,1
